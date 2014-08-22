@@ -17,8 +17,8 @@
     <div class="container">
 
       <div class="page-header">
-        <h1>Bootstrap grid examples</h1>
-        <p class="lead">Basic grid layouts to get you familiar with building within the Bootstrap grid system.</p>
+        <h1>Allans First Skin</h1>
+        <p class="lead">Basic grid layouts to get you familiar with building within the Bootstrap grid system!</p>
 
         <h1>h1. Bootstrap heading</h1>
         <h2>h2. Bootstrap heading</h2>
